@@ -1,0 +1,6 @@
+{
+  "name": "Astraea: Cosmic Login & Solar Dashboard",
+  "description": "An immersive sci-fi deep-space universe experience with multi-layer parallax authentication and an interactive 3D solar planetary dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
